@@ -9,6 +9,15 @@ Silverhoney is a font that aims to be close to what is used in Windows 8.1 Metro
 * [ ] Coordinates ($x, y$) are zero or power of two, so that the font may be rendered either in the graphics processing unit (GPU) or in the central processing unit (CPU). Therefore, the font is intended to be quadratic, with certain curve control points.
 * [ ] The font is Extra Light, therefore shapes are initially built as segment paths (partial shapes)
 * [ ] After a partial shape is complete, select all of its points and select <kbd>Element > Expand Stroke</kbd> and expand stroke by Major Axis (width) = 1 and Minor Axis (height) = 1 and Nib Angle = 45.
+* [ ] Font design size = must be lower than the maximum bottom-top size, but at the same time both must be quadratic
+* [ ] Close shapes in the clockwise orientation starting from $(0, 0)$ ($x, y$).
+
+## What do you mean
+
+* [x] Maximum bottom-top = 512pts
+* [x] Font design size = 256pts
+
+I am trying just the period (**.**). No character other than U+00002E (U+2E; `&#x2E;`; number 46; `0x2E`) (in which case a fallback font may be used).
 
 ## Tasks
 
@@ -48,6 +57,8 @@ I am getting the following errors:
 > Missing points at extrema in the period U+2E (**.**).
 
 I am trying to make the period as if it were just a Light square for the Metro design!
+
+> I am trying just the period (**.**). No character other than U+00002E (U+2E; `&#x2E;`; number 46; `0x2E`) (in which case a fallback font may be used).
 
 ## Contributing
 
