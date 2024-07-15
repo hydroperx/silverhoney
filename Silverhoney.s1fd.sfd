@@ -1,0 +1,67 @@
+SplineFontDB: 3.2
+FontName: Silverhoney
+FullName: Silverhoney
+FamilyName: Silverhoney
+Weight: ExtraLight
+Copyright: Copyright (c) 2024, Hydroper
+UComments: "2024-7-14: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -25
+UnderlineWidth: 12
+Ascent: 205
+Descent: 51
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 769 -311463932 12074168]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1720994347
+ModificationTime: 1721080975
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+DesignSize: 2560 0-5120 1024 1031 "" 2070 ""
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 27 27 9
+BeginPrivate: 0
+EndPrivate
+BeginChars: 256 1
+
+StartChar: period
+Encoding: 46 46 0
+Width: 256
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+0 256 m 12
+ 256 256 l 29
+ 256 256 258 -1 256 0 c 12
+ 254 1 -2 0 0 0 c 4
+ 2 0 0 256 0 256 c 12
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
