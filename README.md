@@ -4,6 +4,12 @@
 
 Silverhoney is a font that aims to be close to what is used in Windows 8.1 Metro.
 
+## Requirements
+
+* [ ] Coordinates ($x, y$) are zero or power of two, so that the font may be rendered either in the graphics processing unit (GPU) or in the central processing unit (CPU). Therefore, the font is intended to be quadratic, with certain curve control points.
+* [ ] The font is Extra Light, therefore shapes are initially built as segment paths (partial shapes)
+* [ ] After a partial shape is complete, select all of its points and select <kbd>Element > Expand Stroke</kbd> and expand stroke by Major Axis (width) = 1 and Minor Axis (height) = 1 and Nib Angle = 45.
+
 ## Tasks
 
 ### Project format
