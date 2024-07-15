@@ -94,3 +94,9 @@ Windows is really powerful, but ultimately, after Windows 8.1, the new Fluent de
 My previous imitations of some variations of the Metro design:
 
 ![image](https://github.com/user-attachments/assets/7acf2333-b43c-4fba-9904-3f4f2269b785)
+
+<blockquote>
+
+Looks Xbox. I have never owned a Xbox either but I have seen a few shots of the GUI. I have owned mostly Windows, Android, Sony PlayStation, Sega Master System, something Lenox that plays lots of things (games from NES, and a Dynavision).
+
+</blockquote>
