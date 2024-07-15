@@ -1,3 +1,5 @@
+![](typography1.jpg)
+
 # Silverhoney
 
 Silverhoney is a font that aims to be close to what is used in Windows 8.1 Metro.
