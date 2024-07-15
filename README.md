@@ -100,3 +100,5 @@ My previous imitations of some variations of the Metro design:
 Looks Xbox. I have never owned a Xbox either but I have seen a few shots of the GUI. I have owned mostly Windows, Android, Sony PlayStation, Sega Master System, something Lenox that plays lots of things (games from NES, and a Dynavision).
 
 </blockquote>
+
+To clarify, if I have ever owned a computer or mobile device, my goal was to simulate something.
