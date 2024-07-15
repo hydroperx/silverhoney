@@ -36,6 +36,19 @@ Done:
 
 * [How to finish a letter in FontForge adding a horizontal line into a triangle](https://graphicdesign.stackexchange.com/questions/165667/how-to-finish-a-letter-in-fontforge-adding-a-horizontal-line-into-a-triangle/165671#165671)
 
+## Period character bug
+
+The font currently contains the period (**.**) character (U+2E) and nothing else (there is no other character in this font other than U+2E, the period character; and I want to render it in GPU).
+
+I am getting the following errors:
+
+![image](https://github.com/user-attachments/assets/600ed216-8785-4787-b46c-7a56ed900705)
+
+> Self-intersection in the period U+2E (**.**).
+> Missing points at extrema in the period U+2E (**.**).
+
+I am trying to make the period as if it were just a Light square for the Metro design!
+
 ## Contributing
 
 The font is developing in the FontForge application, which generally works in all Windows and Unix kernels.
