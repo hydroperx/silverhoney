@@ -35,3 +35,14 @@ Done:
 ## More
 
 * [How to finish a letter in FontForge adding a horizontal line into a triangle](https://graphicdesign.stackexchange.com/questions/165667/how-to-finish-a-letter-in-fontforge-adding-a-horizontal-line-into-a-triangle/165671#165671)
+
+## Contributing
+
+The font is developing in the FontForge application, which generally works in all Windows and Unix kernels.
+
+The FontForge project is a file terminating with the **.s1fd.sfd** extension and the filename starts with **project-** followed by a number. For example:
+
+* **project-1**.s1fd.sfd
+* **project-2**.s1fd.sfd
+
+These project files are eventually uploaded to this repository.
