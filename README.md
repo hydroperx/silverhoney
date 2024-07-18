@@ -72,33 +72,3 @@ The FontForge project is a file terminating with the **.s1fd.sfd** extension and
 * **project-2**.s1fd.sfd
 
 These project files are eventually uploaded to this repository.
-
-## My goals
-
-<blockquote>
-
-Yeah, my first Windows 8 was a cheap touchscreen laptop with Windows 8.1, ARM64 or AVMv7, and Tegan and Sara wallpapers, minimalist Halo wallpaper and more.
-
-There in 2015 (~999.99 BRL), or 1000 BRL (R$1.000,00). In EUROS: 999,99R$ (or 1.000,00R$) * 00,17£ (or 0.17 euros) = ~170,00£
-
-That laptop was a laptop-tablet; you could plug the keyboard off the tablet. It was nice, but it could have been a bit bigger, except the keyboard could stay as is.
-
-SAMSUNG? Probably yes. I have never used any Apple thing; Unix, Ubuntu, Linux a little. My first OS was probably Windows Vista or Windows 7, where I remember Purble Place, Pinball, and Windows Media Center (big picture).
-
-My current laptop (notebook here in Portuguese) is a SAMSUNG brand (NP350XBE-KDABR), but I striked Windows 10/11 off and got to Unix (Linux Mint). I have already switched to any Unix variant sometimes, but did not go further in.
-
-Windows is really powerful, but ultimately, after Windows 8.1, the new Fluent design doesn't make me happy. Windows 10 was still half Metro, but mostly Fluent. Windows 11 is totally the Fluent design mostly.
-
-</blockquote>
-
-My previous imitations of some variations of the Metro design:
-
-![image](https://github.com/user-attachments/assets/7acf2333-b43c-4fba-9904-3f4f2269b785)
-
-<blockquote>
-
-Looks Xbox. I have never owned a Xbox either but I have seen a few shots of the GUI. I have owned mostly Windows, Android, Sony PlayStation, Sega Master System, something Lenox that plays lots of things (games from NES, and a Dynavision).
-
-</blockquote>
-
-To clarify, if I have ever owned a computer or mobile device, my goal was to simulate something.
