@@ -1,4 +1,4 @@
-![](typography1.jpg)
+![](fontphoto.jpg)
 
 # Silverhoney
 
