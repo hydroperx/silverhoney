@@ -6,6 +6,10 @@ Silverhoney is a font that aims to be close to what is used in Windows 8.1 Metro
 
 ![](windows-8.1.png)
 
+Some mimmick:
+
+![image](https://github.com/user-attachments/assets/7acf2333-b43c-4fba-9904-3f4f2269b785)
+
 ## Requirements
 
 * [ ] Coordinates ($x, y$) are zero or power of two, so that the font may be rendered either in the graphics processing unit (GPU) or in the central processing unit (CPU). Therefore, the font is intended to be quadratic, with certain curve control points.
