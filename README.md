@@ -10,26 +10,11 @@ Some mimmick:
 
 ![image](https://github.com/user-attachments/assets/7acf2333-b43c-4fba-9904-3f4f2269b785)
 
-## Requirements
-
-* [ ] Coordinates ($x, y$) are zero or power of two, so that the font may be rendered either in the graphics processing unit (GPU) or in the central processing unit (CPU). Therefore, the font is intended to be quadratic, with certain curve control points.
-* [ ] The font is Extra Light, therefore shapes are initially built as segment paths (partial shapes)
-* [ ] After a partial shape is complete, select all of its points and select <kbd>Element > Expand Stroke</kbd> and expand stroke by Major Axis (width) = 1 and Minor Axis (height) = 1 and Nib Angle = 45.
-* [ ] Font design size = must be lower than the maximum bottom-top size, but at the same time both must be quadratic
-* [ ] Close shapes in the clockwise orientation starting from $(0, 0)$ ($x, y$).
-
-## What do you mean
-
-* [x] Maximum bottom-top = 512pts
-* [x] Font design size = 256pts
-
-I am trying just the period (**.**). No character other than U+00002E (U+2E; `&#x2E;`; number 46; `0x2E`) (in which case a fallback font may be used).
-
 ## Tasks
 
 ### Project format
 
-Usually the font is designed in FontForge and may then be exported to TTF and other formats.
+Usually the font is designed in the FontForge program and may then be exported to TTF and other formats.
 
 ### Characters
 
@@ -51,21 +36,6 @@ Done:
 
 * [How to finish a letter in FontForge adding a horizontal line into a triangle](https://graphicdesign.stackexchange.com/questions/165667/how-to-finish-a-letter-in-fontforge-adding-a-horizontal-line-into-a-triangle/165671#165671)
 
-## Period character bug
-
-The font currently contains the period (**.**) character (U+2E) and nothing else (there is no other character in this font other than U+2E, the period character; and I want to render it in GPU).
-
-I am getting the following errors:
-
-![image](https://github.com/user-attachments/assets/600ed216-8785-4787-b46c-7a56ed900705)
-
-> Self-intersection in the period U+2E (**.**).
-> Missing points at extrema in the period U+2E (**.**).
-
-I am trying to make the period as if it were just a Light square for the Metro design!
-
-> I am trying just the period (**.**). No character other than U+00002E (U+2E; `&#x2E;`; number 46; `0x2E`) (in which case a fallback font may be used).
-
 ## Contributing
 
 The font is developing in the FontForge application, which generally works in all Windows and Unix kernels.
@@ -76,3 +46,10 @@ The FontForge project is a file terminating with the **.s1fd.sfd** extension and
 * **project-2**.s1fd.sfd
 
 These project files are eventually uploaded to this repository.
+
+### Contributing to in FontForge
+
+* [ ] The font is Light, therefore shapes are initially built as segment paths (partial shapes)
+* [ ] After a partial shape is complete, select all of its points and select <kbd>Element > Expand Stroke</kbd> and expand stroke by Major Axis (width) = 2 and Minor Axis (height) = 2 and Nib Angle = 45.
+* [ ] Close shapes in the clockwise orientation, but subtraction ones in counterclockwise orientation.
+* [ ] You may want to round the coordinates to an integer by selecting all points and clicking <kbd>Element > Round > To Int</kbd>, solving the "Non-uniform coordinates" problem.
