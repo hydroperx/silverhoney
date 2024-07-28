@@ -48,7 +48,7 @@ These project files are eventually uploaded to this repository.
 
 ### Contributing to in FontForge
 
-* [ ] The font is Light, therefore shapes are initially built as segment paths (partial shapes)
+* [ ] Shapes are initially built as segment paths (partial shapes)
 * [ ] After a partial shape is complete, select all of its points and select <kbd>Element > Expand Stroke</kbd> and expand stroke by Major Axis (width) = 128 and Minor Axis (height) = 128 and Nib Angle = 45.
 * [ ] Close shapes in the clockwise orientation, but subtraction ones in counterclockwise orientation.
 * [ ] You may want to round the coordinates to an integer by selecting all points and clicking <kbd>Element > Round > To Int</kbd>, solving the "Non-uniform coordinates" problem.
