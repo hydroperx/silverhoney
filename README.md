@@ -52,3 +52,4 @@ These project files are eventually uploaded to this repository.
 * [ ] After a partial shape is complete, select all of its points and select <kbd>Element > Expand Stroke</kbd> and expand stroke by Major Axis (width) = 128 and Minor Axis (height) = 128 and Nib Angle = 45.
 * [ ] Close shapes in the clockwise orientation, but subtraction ones in counterclockwise orientation.
 * [ ] You may want to round the coordinates to an integer by selecting all points and clicking <kbd>Element > Round > To Int</kbd>, solving the "Non-uniform coordinates" problem.
+* [ ] Keep in mind that one character spans two vertical rectangles: the top rectangle is fat and the bottom rectangle is small.
