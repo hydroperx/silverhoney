@@ -19,11 +19,17 @@ Usually the font is designed in the FontForge program and may then be exported t
 ### Characters
 
 ```
-. ! ? : , ; ~ * _ - = + ´ ` < > / \ # ^ %
+. ! ? : , ; ~ * _ - = + ´ ` < > / | \ # ^ %
+" '
 £ $ & ( ) [ ] { } @
 0 1 2 3 4 5 6 7 8 9
 A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t U u V v W w X x Y y Z z
 Ç ç
+Ã Â Á À ã â á à
+É Ê È é ê è
+Í Î Ì í î ì
+Ó Ô Ò ó ô ò
+Ú Û Ù ú û ù
 ```
 
 Done:
