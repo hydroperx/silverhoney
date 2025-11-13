@@ -28,7 +28,7 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 Ã Â Á À ã â á à
 É Ê È é ê è
 Í Î Ì í î ì
-Ó Ô Ò ó ô ò
+Õ Ó Ô Ò Ö õ ó ô ò ö
 Ú Û Ù ú û ù
 ```
 
